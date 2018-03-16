@@ -8,3 +8,7 @@ dotnet new webapi
 2) Create the database context. TodoContext
 3) Register a MemoryDatabase context with DI
 4) Add a Empty controller. TodoController
+5) Adding two GET methods into controller
+    - GetAll()          GET /api/todo      http://localhost:5000/api/todo
+    - GetById(long id)  GET /api/todo/{id}  http://localhost:5000/api/todo/1
+    
