@@ -12,3 +12,5 @@ dotnet new webapi
     - GetAll()          GET /api/todo      http://localhost:5000/api/todo
     - GetById(long id)  GET /api/todo/{id}  http://localhost:5000/api/todo/1
 6) Adding Create method
+7) Adding Update method
+8) Adding Delete method
