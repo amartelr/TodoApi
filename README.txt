@@ -4,4 +4,5 @@ mkdir TodoApi
 cd TodoApi
 dotnet new webapi
 
-1) Add a model class TodoItem
+1) Add a model class. TodoItem
+2) Create the database context. TodoContext
