@@ -7,3 +7,4 @@ dotnet new webapi
 1) Add a model class. TodoItem
 2) Create the database context. TodoContext
 3) Register a MemoryDatabase context with DI
+4) Add a Empty controller. TodoController
